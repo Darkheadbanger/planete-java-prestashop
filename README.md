@@ -1,1 +1,1 @@
-# Planete-Java-blog-Angular17
+# Planete-Java-blog-prestashop
